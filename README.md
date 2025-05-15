@@ -1,13 +1,3 @@
-# sophism-data-example
-
-Para configurar isso em um `README.md` no GitHub e mostrar como rodar o código no PC, vamos criar um guia passo a passo.
-
-### Estrutura do `README.md`
-
-Aqui está o conteúdo do `README.md` que você pode usar. Ele inclui uma descrição do projeto, como rodá-lo localmente e as ferramentas necessárias.
-
----
-
 # Sophism with Data: Coffee Example
 
 This project demonstrates how **correct data can be used to present misleading conclusions**. By combining the concept of **sophism** with data analysis, we use Python to show how even valid data can lead to incorrect conclusions when misinterpreted.
